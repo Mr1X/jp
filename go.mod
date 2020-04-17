@@ -1,4 +1,4 @@
-module github.com/Mr1X/jp
+module github.com/emperor-x/jp
 
 go 1.13
 
