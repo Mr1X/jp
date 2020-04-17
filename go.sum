@@ -1,2 +1,4 @@
+github.com/Mr1X/jp v0.0.0-20200417084521-c15302d4beb9 h1:hfBy9yunMzhbSrytoqnwqreWx1FuQx0L0JDhrkL27Ao=
+github.com/Mr1X/jp v0.0.0-20200417084521-c15302d4beb9/go.mod h1:DwJuJGZdu5oDqf7/1F6jK1SP4/Nupz8naHYZk2FhlGY=
 github.com/golang/protobuf v1.3.2 h1:6nsPYzhq5kReh6QImI3k5qWzO4PEbvbIW2cwSfR/6xs=
 github.com/golang/protobuf v1.3.2/go.mod h1:6lQm79b+lXiMfvg/cZm0SGofjICqVBUtrP5yJMmIC1U=
